@@ -1,4 +1,4 @@
-package com.example.AdventurerAcademyService;
+package com.shrek.AdventurerAcademyService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
